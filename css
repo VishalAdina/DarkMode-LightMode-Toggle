@@ -1,0 +1,16 @@
+body {
+  background: #c7eef3;
+}
+
+h1 {
+  color: #000000;
+  text-align: center;
+}
+
+body.body2 {
+  background: #000000;
+}
+
+#title.title2 {
+  color: #c7eef3;
+}
